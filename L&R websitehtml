@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lalit and Reyansh's website</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+            /* You can adjust the colors or direction as desired */
+            height: 100vh; /* Set the height to fill the viewport */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        h1 {
+            font-family: Arial, sans-serif;
+            font-size: 2rem;
+            color: white;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Lalit and Reyansh's website</h1>
+</body>
+</html>
